@@ -22,8 +22,7 @@
                     <h2 class="text-center fw-bold mt-2">PRODUCTS</h2>
                 </div>
                 <div class="col-md-4 d-flex justify-content-end">
-                    <a href="{{ route('products.create') }}"
-                        class="btn btn-md btn-dark fw-bold me-3 h-75 m-auto">Tambah</a>
+                    <a href="#" class="btn btn-md btn-dark fw-bold me-3 h-75 m-auto">Halaman Pengguna Merchant</a>
                 </div>
             </div>
 

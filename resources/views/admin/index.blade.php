@@ -22,9 +22,12 @@
                     <h2 class="text-center fw-bold mt-2">PRODUCTS</h2>
                 </div>
                 <div class="col-md-4 d-flex justify-content-end">
+                    <a href="#" class="btn btn-md btn-primary me-3 fw-bold  h-75">Lihat
+                        Profile</a>
                     <a href="{{ route('products.create') }}" class="btn btn-md btn-dark me-3 fw-bold  h-75">Tambah
                         Produk</a>
-                    <a href="{{ route('products.index') }}" class="btn btn-md btn-dark fw-bold me-3 h-75">Kembali ke
+                    <a href="{{ route('products.index') }}" class="btn btn-md btn-secondary fw-bold me-3 h-75">Kembali
+                        ke
                         Produk</a>
                 </div>
             </div>
